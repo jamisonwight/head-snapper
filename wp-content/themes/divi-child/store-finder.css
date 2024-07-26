@@ -1,0 +1,201 @@
+
+#finder_captcha table {
+	margin: 20px 0 !important;
+}
+
+#finder_body {
+	margin: 40px 0;
+	padding: 0;
+	width: 100%;
+	background-color: transparent;
+}
+
+#finder_body a {
+	color: #666;
+}
+
+#finder_body a:hover {
+	color: #154E5F;
+}
+
+
+@media screen and (min-width: 0px) and (max-width: 639px) {
+	#finder {
+		max-width: 100% !important;
+	}
+}
+
+#finder_form {
+	border-top:1px solid #56565a;
+	margin-top:20px;
+}
+
+#finder_content {
+	margin:0;
+	padding:0;
+}
+
+#tab-list {
+	max-width:100%;
+	height:100%;
+}
+
+#tab-form .panel-body,#tab-list .panel-body {
+	padding:0;
+}
+
+.form-horizontal .form-group {
+	margin:0;
+}
+
+#finder_tab_nav a {
+	box-shadow:none;
+	font-size: 18px !important;
+	color: #154E5F !important;
+    font-family: 'Lora',Georgia,"Times New Roman",serif;
+	padding: 10px 20px;
+}
+
+#finder_tab_nav li {
+	border: none;
+}
+
+#finder_tab_nav li.active {
+	border: none;
+	color: #666;
+}
+
+#finder_tab_nav li.active:hover {
+	background:none!important;
+	border: none;
+}
+
+#finder_tab_nav li.active:hover a {
+	color: #666 !important;
+}
+#finder {
+	max-width: 40%;
+}
+
+.panel {
+	background:none;
+	border-radius:0!important;
+	-webkit-box-shadow:none;
+	box-shadow:none;
+	font-size:16px;
+	padding:20px 0 0;
+}
+
+.panel-footer {
+	background:none;
+	font-size: 12px !important;
+	color: #154E5F !important;
+    font-family: 'Lora',Georgia,"Times New Roman",serif;
+}
+
+.form-horizontal .control-label {
+    color: #666;
+    font-size: 14px !important;
+    font-weight: normal;
+    display: block !important;
+    text-align: left !important;
+    line-height: 1.4;
+    margin: 0 0 4px;
+}
+#finder_BFBRCD {
+	display: none !important;
+}
+select.form-control {
+	background-color: #f5f5f5;
+	border: 1px solid #bbb;
+	color: #4e4e4e;
+	font-family: inherit;
+    box-shadow: none !important;
+    position: relative;
+	text-indent:8px!important;
+	-webkit-appearance:none;
+}
+
+.finder_form_right select {
+	margin-bottom:15px!important;
+}
+
+select:focus,select.form-control:focus {
+	background-image:none!important;
+	border-color:#56565a!important;
+	box-shadow:none!important;
+}
+
+input[type=text] {
+	background-color: #f5f5f5;
+	border: 1px solid #bbb !important;
+	box-shadow: none !important;
+	color: #4e4e4e;
+	font-family: inherit;
+	text-indent: 8px;
+}
+
+input[type=text]:focus {
+	box-shadow:none!important;
+}
+
+input[type=text]::placeholder {
+	color:#666!important;
+}
+
+.btn, .btn:hover {
+	color: #EEB718!important;
+    border-color: #EEB718;
+    font-size: 20px;
+    font-family: 'Lora',Georgia,"Times New Roman",serif!important;
+    background-color: #154E5F!important;
+    text-transform: none;
+    height: auto;
+    margin-top: 20px !important;
+    outline: none !important;
+    box-shadow: none !important;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 0.3em 1em!important;    
+    letter-spacing: .6px;
+}
+
+#finder_map_paging {
+    top: 140px;
+}
+.finder_vip_logo {
+	display:none;
+}
+.panel-primary>.panel-heading {
+	background: none !important;
+}
+.panel-title {
+	color: #154E5F !important;
+	font-family: 'Lora',Georgia,"Times New Roman",serif!important;
+}
+.panel-title>a,.panel-title>small,
+.panel-title>.small,
+.panel-title>small>a,
+.panel-title>.small>a {
+	color:#154E5F!important;
+	font-size:16px!important;
+	opacity:1;
+}
+
+.label-default {
+	background-color:#154E5F;
+}
+.finder_miles {
+	background: #154E5F;
+	padding: .2em .6em !important;
+}
+.alert-warning {
+	background-color:transparent!important;
+	border-radius:0;
+	border:1px solid #d878ac!important;
+	color: #154E5F!important;
+	margin:30px 0!important;
+}
+#tab-form, #vipcopyright {
+	width: 100%;
+}
